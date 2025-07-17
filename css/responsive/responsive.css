@@ -1,0 +1,198 @@
+@media screen and (max-width: 992px) {
+        .navbar-toggler {
+        border: none;
+    }
+    .navbar-toggler:focus {
+    box-shadow: none;
+}
+     .py-80 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+    .mt-80{
+    margin-top: 65px;
+}
+
+.hero-section {
+  height: auto;
+}
+.heading {
+  font-size: 66px;
+}
+.parge2 {
+    width: 88%;
+}
+.hero-section .sec-button {
+    width: 70%;
+}
+.hero-section .hero-image {
+    width: 470px;
+    height: 470px;
+    margin-top: 50px;
+}
+.hero-section .hero-overlay {
+    bottom: 85px;
+    height: 260px;
+}
+.features-section .fw-bolder {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.features-section h2 .fst-italic {
+    font-size: 45px;
+}
+.features-section .feature-text {
+    font-size: 20px;
+}
+.features-section .feature-card {
+    margin-top: 20px;
+}
+
+.features-section .feature-card {
+    border-radius: 0px;
+    overflow: auto;
+}
+.ready .ready-text {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.ready {
+    height: 80vh;
+}
+.ready .ready-button button {
+    margin-top: 10px;
+    width: 100%;
+}
+.plan .plan-text {
+    font-size: 35px;
+}
+.plan .row {
+    gap: 20px;
+}
+.plan .girl img {
+   height: 400px;
+   object-position: center;
+}
+.task-organizer {
+    padding-top: 20px;
+}
+.desgin {
+    height: 60vh;
+    background-position: center;
+}
+.form-sec {
+    width: 97%;
+}
+    .last-section .frame {
+        width: 60%;
+    }
+.footer {
+    padding-bottom: 30px;
+}
+.phone-mockup img{
+    width: 383px;
+    margin: auto;
+}
+
+
+
+
+}
+@media screen and (max-width: 600px) {
+    .py-80 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.images img
+ {
+    width: 85%;
+    display: block;
+    margin: auto;
+}
+    .mt-80{
+    margin-top: 65px;
+}
+    .navbar-toggler {
+        border: none;
+    }
+    .navbar-toggler:focus {
+    box-shadow: none;
+}
+.hero-section {
+  height: auto;
+}
+.heading {
+  font-size: 46px;
+}
+.parge2 {
+    font-size: 13px;
+    width: 88%;
+    line-height: 1.5;
+}
+.hero-section .sec-button {
+    width: 100%;
+}
+.hero-section .hero-image {
+    width: 370px;
+    height: 370px;
+    margin-top: 50px;
+}
+.hero-section .hero-overlay {
+    bottom: 85px;
+    height: 260px;
+}
+.features-section .fw-bolder {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.features-section h2 .fst-italic {
+    font-size: 45px;
+}
+.features-section .feature-text {
+    font-size: 20px;
+}
+.features-section .feature-card {
+    margin-top: 20px;
+}
+
+.features-section .feature-card {
+    border-radius: 0px;
+    overflow: auto;
+}
+.ready .ready-text {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.ready {
+    height: 90vh;
+}
+.ready .ready-button button {
+    margin-top: 10px;
+    width: 100%;
+}
+.plan .plan-text {
+    font-size: 35px;
+}
+.plan .row {
+    gap: 20px;
+}
+.plan .girl img {
+    height: 100%;
+}
+.task-organizer {
+    padding-top: 20px;
+}
+.desgin {
+    height: 60vh;
+    background-position: center;
+}
+.form-sec {
+    width: 97%;
+}
+.last-section .frame {
+    width: auto;
+}
+.footer {
+    padding-bottom: 30px;
+}
+}

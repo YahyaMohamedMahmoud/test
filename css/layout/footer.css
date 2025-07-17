@@ -1,0 +1,50 @@
+    .footer {
+      background-color: black;
+        color: white;  
+      padding-top: 100px;
+      padding-bottom: 190px;
+    }
+    .footer .parge1{
+        font-size: 24px;
+        margin: 15px 0;
+    }
+    .footer h5, .footer h6 {
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    .footer .list-unstyled li{
+        padding: 5px 0;
+    }
+    .footer a {
+      color: #aaa;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    .footer a:hover {
+      color: #fff;
+    }
+    .footer .text{
+        color: #aaa;
+        font-size: 10px;
+        line-height: 2;
+    }
+    .social-icons i {
+      margin-right: 10px;
+    }
+    .footer .brand-text {
+      font-size: 1.3rem;
+      font-style: italic;
+      margin-bottom: 10px;
+    }
+    .footer .big-text {
+      font-size: 2rem;
+      font-weight: bold;
+      line-height: 1.2;
+      margin-bottom: 15px;
+    }
+    .footer .copyright {
+      margin-top: 20px;
+      font-size: 0.9rem;
+      color: #999;
+    }
